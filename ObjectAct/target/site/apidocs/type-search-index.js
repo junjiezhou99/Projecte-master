@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"mvm.daw.actividades.clase","l":"Aniversari"},{"p":"mvm.daw.actividades.clase","l":"DataTester"},{"p":"mvm.daw.actividades.clase","l":"Vehicle"}]
